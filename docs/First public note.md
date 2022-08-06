@@ -1,5 +1,5 @@
 - [ ] stuff
-	- [ ] Things
+	- [x] Things
 		- [ ] stuffs
 # hello
 #tag #another_tag
